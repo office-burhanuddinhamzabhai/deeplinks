@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.onenfinity.hrms8",
+    "sha256_cert_fingerprints": [ "DB:35:98:03:99:F6:1D:4B:E4:BE:D7:CF:E4:E5:71:CB:E9:81:EF:1E:42:2C:FC:E5:50:2A:18:0E:A8:48:03:82" ]
+  }
+}]
